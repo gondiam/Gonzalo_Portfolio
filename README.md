@@ -1,6 +1,8 @@
 # Gonzalo_Portfolio
-Hello! Welcome to my Data science portfolio.
-Hope you like it and
+Hello! Welcome to my Data science portfolio.\n
+
+Hope you like it and if you are interested to contact me here is my LinkedIn profile
+[Gonzalo Díaz Amor](https://www.linkedin.com/in/gonzalo-d%C3%ADaz-amor/)
 
 
 # [Project 1: UVI Transfers 2019-2021](https://github.com/gondiam/visualization_timeseries)
@@ -46,3 +48,6 @@ The Long Short-Term Memory network or LSTM network is a type of recurrent neural
 We have a result of 0.1 in the Root Mean Squared Error (RMSE) which measures the difference between the prediction and the real value.
 
 ![](/images/LSTM_loockback_1.PNG)
+
+
+Thanks for the visit :)
