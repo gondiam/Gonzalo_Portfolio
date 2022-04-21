@@ -5,8 +5,12 @@ Hope you like it and if you are interested to contact me here is my LinkedIn con
 
 [Gonzalo Díaz Amor](https://www.linkedin.com/in/gonzalo-d%C3%ADaz-amor/)
 
+# [Project 1: EDA Personal Key Indicators of Heart Disease](https://github.com/gondiam/visualization_timeseries)
+Take a look to the Kaggle URl where you can download the [data](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
+According to the CDC, heart disease is one of the leading causes of death for people of most races in the US (African Americans, American Indians and Alaska Natives, and white people). About half of all Americans (47%) have at least 1 of 3 key risk factors for heart disease: high blood pressure, high cholesterol, and smoking. Other key indicator include diabetic status, obesity (high BMI), not getting enough physical activity or drinking too much alcohol. Detecting and preventing the factors that have the greatest impact on heart disease is very important in healthcare. Computational developments, in turn, allow the application of machine learning methods to detect "patterns" from the data that can predict a patient's condition.
 
-# [Project 1: UVI Transfers 2019-2021](https://github.com/gondiam/visualization_timeseries)
+
+# [Project 2: UVI Transfers 2019-2021](https://github.com/gondiam/visualization_timeseries)
 * Using highcharter library we develop a time-series visualization of UVI transfers of a region of Spain 
 * It is an interactive way between periods and more than 20 bases
 * A summary of different parameters per each base
@@ -15,7 +19,7 @@ Hope you like it and if you are interested to contact me here is my LinkedIn con
 
 ![](/images/Transfers.PNG)
 
-# [Project 2: Churn customers prediction](https://github.com/gondiam/Churn_prediction)
+# [Project 3: Churn customers prediction](https://github.com/gondiam/Churn_prediction)
 * A Exploratory Data Analysis (EDA) was performed to understand the data and to compare betwwen groups of population
 * Comparing by graphs the two groups was performed too in case it was a real variable was performed a density and boxplot graph otherwise was performed a barplot
 * The resampling and feature engineering was important due to the imbalance dataset
@@ -24,7 +28,7 @@ Hope you like it and if you are interested to contact me here is my LinkedIn con
 ![](/images/Customer_churn.jpeg)
 
 
-# [Project 3: Bootcamp DPhi Gender Determination by Morphometry of Eyes](https://github.com/gondiam/gondiam/blob/main/bootcampdphi_def_GDA.py)
+# [Project 4: Bootcamp DPhi Gender Determination by Morphometry of Eyes](https://github.com/gondiam/gondiam/blob/main/bootcampdphi_def_GDA.py)
 Problem Statement
 
 The anthropometric analysis of the human face is an essential study for performing craniofacial plastic and reconstructive surgeries.
@@ -36,7 +40,7 @@ For this problem a deep learning  model using tensorflow and keras with a result
 
 ![](/images/bootcamp_DPhi.jpeg)
 
-# [Project 4: Forecast of Ethereum using LSTM Neural Network](https://github.com/gondiam/gondiam/blob/main/LSTM_loockback_1.ipynb)
+# [Project 5: Forecast of Ethereum using LSTM Neural Network](https://github.com/gondiam/gondiam/blob/main/LSTM_loockback_1.ipynb)
 Problem Statement
 
 The variance of the price of the cryptocurrencies are one of the main problems
