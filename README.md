@@ -1,5 +1,6 @@
 # Gonzalo_Portfolio
-Data science portfolio
+Hello! Welcome to my Data science portfolio.
+Hope you like it and
 
 
 # [Project 1: UVI Transfers 2019-2021](https://github.com/gondiam/visualization_timeseries)
