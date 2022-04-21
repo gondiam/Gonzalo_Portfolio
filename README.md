@@ -18,3 +18,16 @@ Data science portfolio
 * At the end we use a XGboost model for classification and using gridsearch we improve the hyperparameter tune to improve the performance
 
 ![](https://github.com/gondiam/Gonzalo_Portfolio/blob/main/images/Customer_churn.jpeg)
+
+
+# [Project 3: Bootcamp DPhi Gender Determination by Morphometry of Eyes](https://github.com/gondiam/gondiam/blob/main/bootcampdphi_def_GDA.py)
+Problem Statement
+
+The anthropometric analysis of the human face is an essential study for performing craniofacial plastic and reconstructive surgeries.
+Facial anthropometrics are affected by various factors such as age, gender, ethnicity, socioeconomic status, environment, and region.  
+
+Our objective is to build a model to scan the image of an eye of a patient and find if the gender of the patient is male or female.
+
+For this problem a deep learning  model using tensorflow and keras with a result of 92.4512% of correct labeled images to the competition and being 37 out of 91.
+
+![](https://github.com/gondiam/Gonzalo_Portfolio/blob/main/images/bootcamp_DPhi.jpeg)
