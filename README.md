@@ -31,3 +31,17 @@ Our objective is to build a model to scan the image of an eye of a patient and f
 For this problem a deep learning  model using tensorflow and keras with a result of 92.4512% of correct labeled images to the competition and being 37 out of 91.
 
 ![](https://github.com/gondiam/Gonzalo_Portfolio/blob/main/images/bootcamp_DPhi.jpeg)
+
+# [Project 4: Forecast of Ethereum using LSTM Neural Network](https://github.com/gondiam/gondiam/blob/main/LSTM_loockback_1.ipynb)
+Problem Statement
+
+The variance of the price of the cryptocurrencies are one of the main problems
+
+Our objective is forecast with precision into this time series problem
+
+For this problem a powerful type of neural network designed to handle sequence dependence is called recurrent neural networks.
+The Long Short-Term Memory network or LSTM network is a type of recurrent neural network used in deep learning because very large architectures can be successfully trained.
+
+We have a result of 0.1 in the Root Mean Squared Error (RMSE) which measures the difference between the prediction and the real value.
+
+![](https://github.com/gondiam/Gonzalo_Portfolio/blob/main/images/LSTM_loockback_1.PNG)
