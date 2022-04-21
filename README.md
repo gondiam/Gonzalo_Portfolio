@@ -17,4 +17,4 @@ Data science portfolio
 * The resampling and feature engineering was important due to the imbalance dataset
 * At the end we use a XGboost model for classification and using gridsearch we improve the hyperparameter tune to improve the performance
 
-![](https://github.com/gondiam/Gonzalo_Portfolio/blob/main/images/Transfers.PNG)
+![](https://github.com/gondiam/Gonzalo_Portfolio/blob/main/images/Customer_churn.jpeg.PNG)
