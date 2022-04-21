@@ -8,3 +8,10 @@ Data science portfolio
 * A summary of different parameters per each base
 * A boxplot to visualize the distribution of the records of transfers in general and per year
 * Total number of transfers per year and base
+
+# [Project 2: Churn customers prediction](https://github.com/gondiam/Churn_prediction)
+* A Exploratory Data Analysis (EDA) was performed to understand the data and to compare betwwen groups of population
+* Comparing by graphs the two groups was performed too in case it was a real variable was performed a density and boxplot graph otherwise was performed a barplot
+* The resampling and feature engineering was important due to the imbalance dataset
+* At the end we use a XGboost model for classification and using gridsearch we improve the hyperparameter tune to improve the performance
+
