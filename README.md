@@ -9,7 +9,7 @@ Data science portfolio
 * A boxplot to visualize the distribution of the records of transfers in general and per year
 * Total number of transfers per year and base
 
-![](https://github.com/gondiam/Gonzalo_Portfolio/blob/main/images/Transfers.PNG)
+![](/images/Transfers.PNG)
 
 # [Project 2: Churn customers prediction](https://github.com/gondiam/Churn_prediction)
 * A Exploratory Data Analysis (EDA) was performed to understand the data and to compare betwwen groups of population
@@ -17,7 +17,7 @@ Data science portfolio
 * The resampling and feature engineering was important due to the imbalance dataset
 * At the end we use a XGboost model for classification and using gridsearch we improve the hyperparameter tune to improve the performance
 
-![](https://github.com/gondiam/Gonzalo_Portfolio/blob/main/images/Customer_churn.jpeg)
+![](/images/Customer_churn.jpeg)
 
 
 # [Project 3: Bootcamp DPhi Gender Determination by Morphometry of Eyes](https://github.com/gondiam/gondiam/blob/main/bootcampdphi_def_GDA.py)
@@ -30,7 +30,7 @@ Our objective is to build a model to scan the image of an eye of a patient and f
 
 For this problem a deep learning  model using tensorflow and keras with a result of 92.4512% of correct labeled images to the competition and being 37 out of 91.
 
-![](https://github.com/gondiam/Gonzalo_Portfolio/blob/main/images/bootcamp_DPhi.jpeg)
+![](/images/bootcamp_DPhi.jpeg)
 
 # [Project 4: Forecast of Ethereum using LSTM Neural Network](https://github.com/gondiam/gondiam/blob/main/LSTM_loockback_1.ipynb)
 Problem Statement
@@ -44,4 +44,4 @@ The Long Short-Term Memory network or LSTM network is a type of recurrent neural
 
 We have a result of 0.1 in the Root Mean Squared Error (RMSE) which measures the difference between the prediction and the real value.
 
-![](https://github.com/gondiam/Gonzalo_Portfolio/blob/main/images/LSTM_loockback_1.PNG)
+![](/images/LSTM_loockback_1.PNG)
