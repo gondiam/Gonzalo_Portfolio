@@ -1,4 +1,4 @@
-# Gonzalo_Portfolio
+# Gonzalo's Portfolio
 Hello! Welcome to my Data science portfolio.\n
 
 Hope you like it and if you are interested to contact me here is my LinkedIn contact. \n
