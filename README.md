@@ -5,7 +5,7 @@ Hope you like it and if you are interested to contact me here is my LinkedIn con
 
 [Gonzalo Díaz Amor](https://www.linkedin.com/in/gonzalo-d%C3%ADaz-amor/)
 
-# [Project 1: Exploratory Data Analysis: Personal Key Indicators of Heart Disease](https://github.com/gondiam/gondiam/blob/main/Heart_Disease.ipynbs)
+# [Project 1: Exploratory Data Analysis: Personal Key Indicators of Heart Disease](https://github.com/gondiam/gondiam/blob/main/Heart_Disease.ipynb)
 Take a look to the Kaggle URl where you can download the [data](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
 According to the CDC, heart disease is one of the leading causes of death for people of most races in the US (African Americans, American Indians and Alaska Natives, and white people). About half of all Americans (47%) have at least 1 of 3 key risk factors for heart disease: high blood pressure, high cholesterol, and smoking. Other key indicator include diabetic status, obesity (high BMI), not getting enough physical activity or drinking too much alcohol. Detecting and preventing the factors that have the greatest impact on heart disease is very important in healthcare. Computational developments, in turn, allow the application of machine learning methods to detect "patterns" from the data that can predict a patient's condition.
 
