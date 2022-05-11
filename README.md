@@ -54,5 +54,14 @@ We have a result of 0.1 in the Root Mean Squared Error (RMSE) which measures the
 
 ![](/images/LSTM_loockback_1.PNG)
 
+# [Project 6: Breast cancer detection using Random Forest](https://github.com/gondiam/gondiam/blob/main/XAI_BreastCancer.ipynb)
+Breast cancer is a type of cancer that starts in the breast. Cancer starts when cells begin to grow out of control. Breast cancer cells usually form a tumor that can often be seen on an x-ray or felt as a lump. Breast cancer occurs almost entirely in women, but men can get breast cancer, too. A benign tumor is a tumor that does not invade its surrounding tissue or spread around the body. A malignant tumor is a tumor that may invade its surrounding tissue or spread around the body.
+
+In this project we are going to develop a random forest solution but an emphasis in using SHAP (SHapley Additive exPlanations) which is a unified approach to explain the output of any machine learning model.
+[SHAPE explanation](https://shap.readthedocs.io/en/latest/index.html)
+
+![](/images/XAI_BreastCancer.PNG)
+
+
 
 Thanks for the visit :)
