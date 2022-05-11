@@ -1,6 +1,6 @@
 # Gonzalo's Portfolio
 Hello! Welcome to my Data science portfolio.
-
+![](/images/me.PNG)
 Hope you like it and if you are interested to contact me here is my LinkedIn contact. 
 
 [Gonzalo Díaz Amor](https://www.linkedin.com/in/gonzalo-d%C3%ADaz-amor/)
