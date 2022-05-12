@@ -67,4 +67,4 @@ In this project we are going to develop a random forest solution but an emphasis
 
 
 
-Thanks for the visit :)
+**Thank you for the visit :)**
