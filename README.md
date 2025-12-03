@@ -2,7 +2,7 @@
 Hello! Welcome to my Data science portfolio.
 
 
-Hope you like it and if you are interested to contact me here is my [LinkedIn](https://www.linkedin.com/in/gonzalo-d%C3%ADaz-amor/). 
+Hope you like it and if you are interested to contact me here is my [LinkedIn](https://www.linkedin.com/in/gdiazamor/). 
 
 # [Project 1: Exploratory Data Analysis: Personal Key Indicators of Heart Disease](https://github.com/gondiam/gondiam/blob/main/Heart_Disease.ipynb)
 Take a look to the Kaggle URl where you can download the [data](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
