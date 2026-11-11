@@ -22,6 +22,8 @@ A preregistered post-training study: the analysis was committed before any train
 * Result: SFT raised accuracy from 38.6% to 71.7% (+33.1 points, 95% CI 27.4-38.9). DPO added no improvement (-1.0 point) and is reported as a null result
 * What got worse: about 7 points of MMLU, mostly from repetition loops rather than lost knowledge (exploratory reading)
 
+## Earlier Projects
+
 # [RAG vs. Open Knowledge Format (OKF) vs. Both Combined](https://github.com/gondiam/rag-vs-okf)
 Inspired by [a benchmark video by Joaquín Ruiz](https://github.com/JoaquinRuiz/rag-vs-okf) — this is my own build, not a reproduction: original synthetic company corpus, original eval questions, original code.
 
@@ -29,8 +31,6 @@ Inspired by [a benchmark video by Joaquín Ruiz](https://github.com/JoaquinRuiz/
 * Everything runs locally via Ollama (`ornith:9b` generation), no external API calls
 * Designed the corpus with deliberate traps: two unit-conversion gotchas (EUR/month/seat → annualized USD; TB → pooled GB) and one metric that doesn't exist anywhere in the corpus, to test for hallucination
 * Result on 6 eval questions: **RAG 5/6, OKF 4/6, RAG+OKF 6/6** — including a case where OKF hallucinated a number reasoning beyond its curated content, and a case where only the hybrid setup caught a contradiction between two source documents. Full breakdown, including *where and why* each approach failed, in [`results/RESULTS.md`](https://github.com/gondiam/rag-vs-okf/blob/main/results/RESULTS.md)
-
-## Earlier Projects
 
 # [Churn Customers Prediction](https://github.com/gondiam/Churn_prediction)
 * An Exploratory Data Analysis (EDA) was performed to understand the data and compare between groups of the population
