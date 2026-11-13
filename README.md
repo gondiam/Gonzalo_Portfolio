@@ -11,7 +11,8 @@ Hi! I'm Gonzalo, a Data Scientist and AI Engineer with a background in statistic
 Open-source Python package with the statistics to check whether an LLM judge can be trusted.
 
 * Cohen's/Fleiss' kappa, ICC, F1/MCC with bootstrap CIs, sample-size planning and position-bias shuffling, with tests validated against published values
-* Applied to the public MT-Bench human judgments: GPT-4 vs. human-majority kappa = 0.41 (95% CI 0.37-0.45), against a human-human kappa of 0.50
+* Applied to the public MT-Bench human judgments (1,814 items): GPT-4 vs. human-majority kappa = 0.51 (95% CI 0.47-0.54), on par with the human-human kappa of 0.50
+* The same data gives kappa = 0.38 under a different label order, so two kappas are comparable only with the same layout
 * 15.8% of verdicts were position-inconsistent
 
 # [sft-dpo-eval: Did Each Training Stage Beat the Noise?](https://github.com/gondiam/sft-dpo-eval)
