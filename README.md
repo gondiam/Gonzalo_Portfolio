@@ -23,6 +23,13 @@ A preregistered post-training study: the analysis was committed before any train
 * Result: SFT raised accuracy from 38.6% to 71.7% (+33.1 points, 95% CI 27.4-38.9). DPO added no improvement (-1.0 point) and is reported as a null result
 * What got worse: about 7 points of MMLU, mostly from repetition loops rather than lost knowledge (exploratory reading)
 
+# [bayesian-judge-calibration: How Far Do 20 Human Labels Go?](https://github.com/gondiam/bayesian-judge-calibration)
+A proof of concept, not a preregistered study, on the public MT-Bench human judgments. No LLM calls: it runs on a laptop CPU in about two minutes.
+
+* With 20 human labels, a Bayesian model of judge and human labels estimated a rate with RMSE 0.067, against 0.110 using the human labels alone and 0.120 for the Rogan-Gladen correction with a bootstrap (1,000 random calibration samples)
+* With a weak judge, the Rogan-Gladen correction gave no answer in 25.6% of 20-label samples. Most of the Bayesian gain comes from also using the human labels directly, not from the prior
+* A hierarchical Dawid-Skene model (PyMC) over 65 human raters and GPT-4 pools information across raters, with a simulated-recovery check
+
 ## Earlier Projects
 
 # [RAG vs. Open Knowledge Format (OKF) vs. Both Combined](https://github.com/gondiam/rag-vs-okf)
