@@ -23,6 +23,15 @@ A preregistered post-training study: the analysis was committed before any train
 * Result: SFT raised accuracy from 38.6% to 71.7% (+33.1 points, 95% CI 27.4-38.9). DPO added no improvement (-1.0 point) and is reported as a null result
 * What got worse: about 7 points of MMLU, mostly from repetition loops rather than lost knowledge (exploratory reading)
 
+# [right-sizing-noninferiority: Can You Switch to the Cheaper Model?](https://github.com/gondiam/right-sizing-noninferiority)
+A preregistered non-inferiority study, run like a clinical trial (ICH E9/E10): the margins were committed before the test run, and the cheaper model had to prove it loses less than that.
+
+* Qwen3 1.7B, 4B and 8B on 1,273 MedQA items, scored once on a free Kaggle T4, with a Holm-adjusted paired analysis using llm-judge-stats
+* Result: no cheaper option was shown non-inferior. The 4B lost 9.2 points to the 8B (95% CI -12.0 to -6.4), beyond the 4-point margin
+* 4-bit quantization (-3.3 points) and a confidence cascade (-2.4 points) were both measurably worse; whether they lose more than 2 points is left open
+* A 1.7B sensitivity control came out 23.4 points lower, so the setup can tell models apart
+* Exploratory: on this GPU, the 4B in 4-bit took twice as long as in fp16; it only saved memory
+
 # [bayesian-judge-calibration: How Far Do 20 Human Labels Go?](https://github.com/gondiam/bayesian-judge-calibration)
 A proof of concept, not a preregistered study, on the public MT-Bench human judgments. No LLM calls: it runs on a laptop CPU in about two minutes.
 
